@@ -1,0 +1,7 @@
+C:\Users\XH983ME\tmp3\learningapp\bin\publish\learningapp.exe
+C:\Users\XH983ME\tmp3\learningapp\bin\publish\appsettings.Development.json
+C:\Users\XH983ME\tmp3\learningapp\bin\publish\appsettings.json
+C:\Users\XH983ME\tmp3\learningapp\bin\publish\learningapp.dll
+C:\Users\XH983ME\tmp3\learningapp\bin\publish\learningapp.deps.json
+C:\Users\XH983ME\tmp3\learningapp\bin\publish\learningapp.runtimeconfig.json
+C:\Users\XH983ME\tmp3\learningapp\bin\publish\learningapp.pdb

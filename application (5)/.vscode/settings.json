@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2c252a92-d025-4ee5-bb6a-ccd7e936273c/resourceGroups/App-myresource_grp/providers/Microsoft.Web/sites/learning-webaap1989",
+    "appService.deploySubpath": "application\\learningapp\\bin\\Debug\\net8.0"
+}
